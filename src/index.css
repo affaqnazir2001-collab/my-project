@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+@import "tailwindcss";
+
+    .custom-shape-divider-top-1782973750 {
+        background-color: #202942;
+    position: absolute;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1782973750 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 84px;
+}
+
+.custom-shape-divider-top-1782973750 .shape-fill {
+    fill: #FFFFFF;
+}
+.custom-shape-divider-top-1788328576 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1788328576 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 33px;
+}
+
+.custom-shape-divider-top-1788328576 .shape-fill {
+    fill: #FFFFFF;
+}
+.custom-shape-divider-top-1788328819 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-top-1788328819 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 55px;
+}
+
+.custom-shape-divider-top-1788328819 .shape-fill {
+    fill: #FFFFFF;
+}
+.font{
+  font-family: "Nunito", sans-serif;
+  
+}
